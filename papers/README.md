@@ -8,6 +8,7 @@
 - [Comparing the use of DynamoDB and HBase for NoSQL](https://d0.awsstatic.com/whitepapers/AWS_Comparing_the_Use_of_DynamoDB_and_HBase_for_NoSQL.pdf)
 - [Dapper - Distributed tracing](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf)
 - [Dynamo - Key value store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf)
+- [FLP Impossibility Result](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf)
 - [Harvest, yield and Fault tolerant systems](https://pdfs.semanticscholar.org/5015/8bc1a8a67295ab7bce0550886a9859000dc2.pdf)
 - [Increasing the resilience of Distributed and Replicated database systems](http://webee.technion.ac.il/~idish/Abstracts/jcss.html)
 - [Lifeguard](https://arxiv.org/pdf/1707.00788.pdf)
