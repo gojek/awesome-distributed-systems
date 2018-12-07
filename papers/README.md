@@ -1,5 +1,6 @@
 ## Papers
 
+- [A Note on Distributed Computing](https://www.cc.gatech.edu/classes/AY2010/cs4210_fall/papers/smli_tr-94-29.pdf)
 - [BigTable - Distributed storage system](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 - [Borg](https://pdos.csail.mit.edu/6.824/papers/borg.pdf)
 - [Byzantine Generals Problem](http://www.cs.cornell.edu/courses/cs614/2004sp/papers/LSP82.pdf)
