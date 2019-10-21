@@ -22,3 +22,4 @@
 - [Time, clocks and the Ordering of events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [Zookeeper](https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Hunt.pdf)
 - [Consistency Models of NoSQL Databases](https://res.mdpi.com/d_attachment/futureinternet/futureinternet-11-00043/article_deploy/futureinternet-11-00043.pdf)
+- [LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/system/files/osdi18-shan.pdf)
